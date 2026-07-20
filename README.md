@@ -22,12 +22,13 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **AI RAG SaaS Platform** *(Confidential)* | Production-grade AI platform for enterprise document ingestion, semantic search, vector embeddings, async background processing & knowledge retrieval. | Node.js, Fastify, PostgreSQL, Redis, BullMQ, Qdrant, Ollama, MCP |
-| **[SupplierGateway](https://www.suppliergateway.com)** | Global enterprise supplier management & compliance platform. Backend architecture, RESTful API integrations, performance optimization. | — |
-| **[InVue](https://invue.com)** | Global enterprise security technology platform. Backend API development, third-party integrations, high-availability maintenance. | — |
-| **[SimploCloud](https://simplocloud.com)** | Managed web hosting ecosystem with instant staging/live servers, DB management, DNS orchestration & invoicing. Backend infrastructure automation. | — |
-| **[ClikGo](https://clikgo.net)** | On-demand freelance & service marketplace for travelers. Backend API design, secure authentication, real-time vendor integrations. | — |
-| **[YallaCook UK](https://yallacook.co.uk)** | UK culinary marketplace connecting local chefs with customers. Multi-vendor workflows, order processing, payment integration. | — |
+| **AI RAG SaaS Platform** *(Confidential)* | Production-grade AI platform for enterprise document ingestion, semantic search, vector embeddings, async background processing & knowledge retrieval. | Python, PostgreSQL, Redis, BullMQ, Qdrant, Ollama, MCP |
+| **[SupplierGateway](https://www.suppliergateway.com)** | Global enterprise supplier management & compliance platform. Backend architecture, RESTful API integrations, performance optimization. | PHP Wordpress|
+| **[InVue](https://invue.com)** | Global enterprise security technology platform. Backend API development, third-party integrations, high-availability maintenance. | PHP Wordpress |
+| **[SimploCloud](https://simplocloud.com)** | Managed web hosting ecosystem with instant staging/live servers, DB management, DNS orchestration & invoicing. Backend infrastructure automation. | Headless Wordpress, Custom PHP, DevOps  |
+| **[ClikGo](https://clikgo.net)** | On-demand freelance & service marketplace for travelers. Backend API design, secure authentication, real-time vendor integrations. | Headlress Wordpress, Native PHP |
+| **[YallaCook UK](https://yallacook.co.uk)** | UK culinary marketplace connecting local chefs with customers. Multi-vendor workflows, order processing, payment integration. | Dart, Flutter |
+| **[Trippp](InProgress)** | Transportation app Like Swvl. | Reactnative , Laravel, WebSocket |
 
 ---
 
