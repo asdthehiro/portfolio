@@ -30,7 +30,10 @@
 | **[YallaCook UK](https://yallacook.co.uk)** | UK culinary marketplace connecting local chefs with customers. Multi-vendor workflows, order processing, payment integration. | Dart, Flutter |
 | **[Trippp](#InProgress)** | Transportation app Like Swvl. | Reactnative , Laravel, WebSocket |
 | **[Shoghlonline](https://shoghlonline.com/)** | Freelance plateform like mostaql,upwork Was php Wordpress currently full refactored in progress stage url: https://shoglonline.bedoonsemsar.com/  | Python , Ai |
-
+| **[Mideastjobs](https://mideastjobs.net/)** | Scrapping Jobs website | PHP, Wordpress |
+| **[Homekey](https://app.homekey.so/)** | Properties Listing | Nodejs, React |
+| **[cybershark](https://cyber-shark.tech/)** | Courses Website | PHP Laravel |
+| **[PrimeFood](https://primefood.techzone.so/)** | Saas POS system For restaurants | PHP Laravel |
 
 ---
 
