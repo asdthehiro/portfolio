@@ -29,6 +29,8 @@
 | **[ClikGo](https://clikgo.net)** | On-demand freelance & service marketplace for travelers. Backend API design, secure authentication, real-time vendor integrations. | Headlress Wordpress, Native PHP |
 | **[YallaCook UK](https://yallacook.co.uk)** | UK culinary marketplace connecting local chefs with customers. Multi-vendor workflows, order processing, payment integration. | Dart, Flutter |
 | **[Trippp](#InProgress)** | Transportation app Like Swvl. | Reactnative , Laravel, WebSocket |
+| **[Shoghlonline](https://shoghlonline.com/)** | Freelance plateform like mostaql,upwork Was php Wordpress currently full refactored in progress stage url: https://shoglonline.bedoonsemsar.com/  | Python , Ai |
+
 
 ---
 
