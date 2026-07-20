@@ -28,7 +28,7 @@
 | **[SimploCloud](https://simplocloud.com)** | Managed web hosting ecosystem with instant staging/live servers, DB management, DNS orchestration & invoicing. Backend infrastructure automation. | Headless Wordpress, Custom PHP, DevOps  |
 | **[ClikGo](https://clikgo.net)** | On-demand freelance & service marketplace for travelers. Backend API design, secure authentication, real-time vendor integrations. | Headlress Wordpress, Native PHP |
 | **[YallaCook UK](https://yallacook.co.uk)** | UK culinary marketplace connecting local chefs with customers. Multi-vendor workflows, order processing, payment integration. | Dart, Flutter |
-| **[Trippp](InProgress)** | Transportation app Like Swvl. | Reactnative , Laravel, WebSocket |
+| **[Trippp](#InProgress)** | Transportation app Like Swvl. | Reactnative , Laravel, WebSocket |
 
 ---
 
